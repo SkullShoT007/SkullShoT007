@@ -1,4 +1,9 @@
-<h1 color = 'green'>HacktoberFest2024</h1>h1
-[![An image of @skullshot007's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/skullshot007)](https://holopin.io/@skullshot007)
+<style>
+  h1{
+color: green;
+  }
+<style>
+<h1>HacktoberFest2024</h1>
+<img src = "https://assets.holopin.io/hf2024levels/level3-sloth-hello-tea-robe-witch-0.webp" width = '150px' height = '150px'>
 
 
